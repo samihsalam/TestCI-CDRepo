@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectPerso\\GethubAction\\GethubAction.csproj": {}
+    "D:\\ProjectPerso\\GethubAction\\TestGithubAction\\TestCI-CDRepo\\GethubAction.csproj": {}
   },
   "projects": {
-    "D:\\ProjectPerso\\GethubAction\\GethubAction.csproj": {
+    "D:\\ProjectPerso\\GethubAction\\TestGithubAction\\TestCI-CDRepo\\GethubAction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectPerso\\GethubAction\\GethubAction.csproj",
+        "projectUniqueName": "D:\\ProjectPerso\\GethubAction\\TestGithubAction\\TestCI-CDRepo\\GethubAction.csproj",
         "projectName": "GethubAction",
-        "projectPath": "D:\\ProjectPerso\\GethubAction\\GethubAction.csproj",
+        "projectPath": "D:\\ProjectPerso\\GethubAction\\TestGithubAction\\TestCI-CDRepo\\GethubAction.csproj",
         "packagesPath": "C:\\Users\\EL OUAFI Bouchta\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectPerso\\GethubAction\\obj\\",
+        "outputPath": "D:\\ProjectPerso\\GethubAction\\TestGithubAction\\TestCI-CDRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
