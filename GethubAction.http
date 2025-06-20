@@ -1,0 +1,6 @@
+@GethubAction_HostAddress = http://localhost:5210
+
+GET {{GethubAction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
